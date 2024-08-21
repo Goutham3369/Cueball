@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Cueball
   productName: CueBall
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -159,7 +159,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.wildleogames.colorpoolballsort
-    Standalone: com.DefaultCompany.CueBall
+    Standalone: com.Cueball.CueBall
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -945,7 +945,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -965,11 +971,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 88fbd78a-98ad-42fa-8900-91943f3893ae
+  cloudProjectId: 9368345c-2043-4b1e-bb02-b1f5cd8e6bed
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SortBalls
-  organizationId: usman4057
+  projectName: CueBall
+  organizationId: goutham0910
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
